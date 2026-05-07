@@ -34,7 +34,7 @@ function App() {
         <div className="game-card">
           <h1>{isGameWon ? '🏆 THẮNG RỒI' : '🎮 Zui zẻ'}</h1>
           <p className="subtitle">
-            {isGameWon ? 'Hello Bảo Ngọc!' : 'Em có thể nhấn "Yes" không? 😏'}
+            {isGameWon ? 'Hello Bảo Ngọc!' : 'Em có thể nhấn "Yes" được không BNgoc? '}
           </p>
           
           <div className="message-box">
