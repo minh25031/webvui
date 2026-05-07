@@ -8,7 +8,7 @@ function App() {
   const [isStarted, setIsStarted] = useState(false)
   const [yesSize, setYesSize] = useState(1)
   const [score, setScore] = useState(0)
-  const [message, setMessage] = useState('Chọc em được không? 😏')
+  const [message, setMessage] = useState('Chọc em được không?')
   const [isGameWon, setIsGameWon] = useState(false)
 
   const trollMessages = [
