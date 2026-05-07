@@ -13,7 +13,7 @@ function App() {
 
   const trollMessages = [
     "Đố bắt được em! 🏃‍♂️", "Yếu thế? Bấm lại xem nào! 😂",
-    "Lêu lêu, hụt rồi nha! 😜", "Càng bấm hụt em càng yêu bạn! 🥰",
+    "Lêu lêu, hụt rồi nha! 😜", "Càng bấm hụt em càng yêu ! 🥰",
     "Bướng thế nhỉ? Nhấn 'Yes' đi! 💖"
   ];
 
